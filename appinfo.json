@@ -20,6 +20,18 @@
                 "name": "BFLY_LD",
                 "targetPlatforms": null,
                 "type": "png"
+            },
+            {
+                "file": "images/bfly_ru.png",
+                "name": "BFLY_RU",
+                "targetPlatforms": null,
+                "type": "png"
+            },
+            {
+                "file": "images/bfly_rd.png",
+                "name": "BFLY_RD",
+                "targetPlatforms": null,
+                "type": "png"
             }
         ]
     },

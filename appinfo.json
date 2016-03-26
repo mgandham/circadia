@@ -10,18 +10,6 @@
     "resources": {
         "media": [
             {
-                "file": "images/bfly_lu.png",
-                "name": "BFLY_LU",
-                "targetPlatforms": null,
-                "type": "png"
-            },
-            {
-                "file": "images/bfly_ld.png",
-                "name": "BFLY_LD",
-                "targetPlatforms": null,
-                "type": "png"
-            },
-            {
                 "file": "images/bfly_ru.png",
                 "name": "BFLY_RU",
                 "targetPlatforms": null,
@@ -30,6 +18,18 @@
             {
                 "file": "images/bfly_rd.png",
                 "name": "BFLY_RD",
+                "targetPlatforms": null,
+                "type": "png"
+            },
+            {
+                "file": "images/bfly_lu.png",
+                "name": "BFLY_LU",
+                "targetPlatforms": null,
+                "type": "png"
+            },
+            {
+                "file": "images/bfly_ld.png",
+                "name": "BFLY_LD",
                 "targetPlatforms": null,
                 "type": "png"
             }

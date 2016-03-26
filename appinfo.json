@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "manugandham@outlook.com",
+    "enableMultiJS": false,
+    "longName": "circadian",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "circadian",
+    "uuid": "5fa5bf0c-b7a4-4198-93fb-ff9e200473e7",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

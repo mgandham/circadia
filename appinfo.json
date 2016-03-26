@@ -8,7 +8,14 @@
     "longName": "circadian",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/bfly_ld.png",
+                "name": "BFLY_LD",
+                "targetPlatforms": null,
+                "type": "png"
+            }
+        ]
     },
     "sdkVersion": "3",
     "shortName": "circadian",

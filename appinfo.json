@@ -10,6 +10,12 @@
     "resources": {
         "media": [
             {
+                "file": "images/bfly_lu.png",
+                "name": "BFLY_LU",
+                "targetPlatforms": null,
+                "type": "png"
+            },
+            {
                 "file": "images/bfly_ld.png",
                 "name": "BFLY_LD",
                 "targetPlatforms": null,
